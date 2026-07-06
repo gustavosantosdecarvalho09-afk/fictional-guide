@@ -1,4 +1,5 @@
 list
 frango
 arroz
-feixaoS
+feijão
+milho
